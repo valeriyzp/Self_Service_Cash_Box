@@ -1,0 +1,46 @@
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Self_Service_Cash_Box.exe.config
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Self_Service_Cash_Box.exe
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Self_Service_Cash_Box.pdb
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csprojAssemblyReference.cache
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.Properties.Resources.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csproj.GenerateResource.cache
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csproj.CoreCompileInputs.cache
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.exe
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.pdb
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.WaitingWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.ProductListWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.PaymentWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.BarcodeReadingWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.SuccessfulPaymentWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.SettingsWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.LoginToSettingsWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.AssistantWaitingWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.AgeConfirmationWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.MessageWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.InformationWindow.resources
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Google.Protobuf.dll
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\MySql.Data.xml
+D:\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csproj.CopyComplete
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Self_Service_Cash_Box.exe.config
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Self_Service_Cash_Box.exe
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Self_Service_Cash_Box.pdb
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\Google.Protobuf.dll
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\bin\Debug\MySql.Data.xml
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csprojAssemblyReference.cache
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.AgeConfirmationWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.AssistantWaitingWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.BarcodeReadingWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.InformationWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.LoginToSettingsWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.MessageWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.PaymentWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.ProductListWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.Properties.Resources.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.SettingsWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.SuccessfulPaymentWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.WaitingWindow.resources
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csproj.GenerateResource.cache
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csproj.CoreCompileInputs.cache
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.csproj.CopyComplete
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.exe
+D:\Университет\2 курс\Л-МВ Сдано\Self-Service Cash Box\Self_Service_Cash_Box\Self_Service_Cash_Box\obj\Debug\Self_Service_Cash_Box.pdb
